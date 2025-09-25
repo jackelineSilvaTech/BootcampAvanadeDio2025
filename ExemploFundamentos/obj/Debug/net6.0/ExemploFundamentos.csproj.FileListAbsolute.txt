@@ -1,0 +1,13 @@
+/home/jack/Documentos/Bootcamp AVANADE - .Net & IA - 2025/ExemploFundamentos/bin/Debug/net6.0/ExemploFundamentos
+/home/jack/Documentos/Bootcamp AVANADE - .Net & IA - 2025/ExemploFundamentos/bin/Debug/net6.0/ExemploFundamentos.deps.json
+/home/jack/Documentos/Bootcamp AVANADE - .Net & IA - 2025/ExemploFundamentos/bin/Debug/net6.0/ExemploFundamentos.runtimeconfig.json
+/home/jack/Documentos/Bootcamp AVANADE - .Net & IA - 2025/ExemploFundamentos/bin/Debug/net6.0/ExemploFundamentos.dll
+/home/jack/Documentos/Bootcamp AVANADE - .Net & IA - 2025/ExemploFundamentos/bin/Debug/net6.0/ref/ExemploFundamentos.dll
+/home/jack/Documentos/Bootcamp AVANADE - .Net & IA - 2025/ExemploFundamentos/bin/Debug/net6.0/ExemploFundamentos.pdb
+/home/jack/Documentos/Bootcamp AVANADE - .Net & IA - 2025/ExemploFundamentos/obj/Debug/net6.0/ExemploFundamentos.csproj.AssemblyReference.cache
+/home/jack/Documentos/Bootcamp AVANADE - .Net & IA - 2025/ExemploFundamentos/obj/Debug/net6.0/ExemploFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+/home/jack/Documentos/Bootcamp AVANADE - .Net & IA - 2025/ExemploFundamentos/obj/Debug/net6.0/ExemploFundamentos.csproj.CoreCompileInputs.cache
+/home/jack/Documentos/Bootcamp AVANADE - .Net & IA - 2025/ExemploFundamentos/obj/Debug/net6.0/ExemploFundamentos.dll
+/home/jack/Documentos/Bootcamp AVANADE - .Net & IA - 2025/ExemploFundamentos/obj/Debug/net6.0/ref/ExemploFundamentos.dll
+/home/jack/Documentos/Bootcamp AVANADE - .Net & IA - 2025/ExemploFundamentos/obj/Debug/net6.0/ExemploFundamentos.pdb
+/home/jack/Documentos/Bootcamp AVANADE - .Net & IA - 2025/ExemploFundamentos/obj/Debug/net6.0/ExemploFundamentos.genruntimeconfig.cache
